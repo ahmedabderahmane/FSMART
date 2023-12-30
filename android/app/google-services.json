@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774371736276",
+    "project_id": "tatafire-54c4a",
+    "storage_bucket": "tatafire-54c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774371736276:android:5e2e648b377b3592901941",
+        "android_client_info": {
+          "package_name": "com.example.hellow_word"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBbXf8zLWyNyNd0T6P_yOP4Hvk30LT1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774371736276:android:8a91bf52bd78fbdf901941",
+        "android_client_info": {
+          "package_name": "com.example.maindovre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBbXf8zLWyNyNd0T6P_yOP4Hvk30LT1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
